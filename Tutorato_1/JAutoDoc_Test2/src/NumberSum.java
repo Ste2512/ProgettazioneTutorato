@@ -1,10 +1,8 @@
+
 // TODO: Auto-generated Javadoc
 /**
- * The Class NumberSum
- * 
- * La classe effettua la somma di due numeri.
- *
- * @author Andrea Bombarda
+ * The Class NumberSum.
+ * @author Stefano
  */
 public class NumberSum {
 
@@ -92,4 +90,5 @@ public class NumberSum {
 		
 		System.out.println(ns.calcolaSomma());
 	}
+
 }
