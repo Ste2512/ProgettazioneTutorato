@@ -156,3 +156,8 @@ java.lang.Exception: The project description file (.project) for 'JAutoDoc_Test2
 	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2317)
 	at org.eclipse.ui.actions.WorkspaceModifyOperation.run(WorkspaceModifyOperation.java:131)
 	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:122)
+
+!ENTRY org.eclipse.core.resources 2 2 2020-11-15 12:05:28.550
+!MESSAGE Save operation warnings.
+!SUBENTRY 1 org.eclipse.core.resources 2 234 2020-11-15 12:05:28.550
+!MESSAGE The project description file (.project) for 'JAutoDoc_Test2' was missing.  This file contains important information about the project.  A new project description file has been created, but some information about the project may have been lost.
